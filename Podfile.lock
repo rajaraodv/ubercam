@@ -1,0 +1,10 @@
+PODS:
+  - MBAutoGrowingTextView (0.1.0)
+
+DEPENDENCIES:
+  - MBAutoGrowingTextView (~> 0.1.0)
+
+SPEC CHECKSUMS:
+  MBAutoGrowingTextView: 3955d4513be3d184fe2cb7739999c1f994dcd4d5
+
+COCOAPODS: 0.38.2
